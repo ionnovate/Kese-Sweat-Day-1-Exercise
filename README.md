@@ -6,3 +6,8 @@
 # <h4>What do you hope to learn</h4>
 # <h4>Discuss some projects you've enjoyed. Go into detail!</h4>
 # <h4>List your tech skills. What languages/libraries/tools/etc you're a master/intermediate/novice in</h4>
+
+#### Joke!:
+> I just found out I'm colorblind...
+> The diagnosis came completely out of the purple.
+
